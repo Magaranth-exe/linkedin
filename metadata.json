@@ -1,0 +1,5 @@
+{
+  "name": "AI LinkedIn Profile Enhancer",
+  "description": "A powerful LinkedIn profile audit tool that uses Apify for scraping and Gemini AI for strategic branding recommendations, headlines, and keyword optimization.",
+  "requestFramePermissions": []
+}
